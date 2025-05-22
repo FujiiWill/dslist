@@ -1,4 +1,4 @@
-package com.devsupeior.dslist.entities;
+package com.devsuperior.dslist.entities;
 
 import java.util.Objects;
 
@@ -84,7 +84,7 @@ public class Game {
 		return platforms;
 	}
 
-	public void setPlataform(String plataform) {
+	public void setPlataform(String platforms) {
 		this.platforms = platforms;
 	}
 
